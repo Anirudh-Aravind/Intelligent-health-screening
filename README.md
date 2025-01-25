@@ -4,11 +4,6 @@
 
 This project represents an innovative approach to healthcare screening, leveraging synthetic data generation, machine learning, and agentic AI to provide intelligent medical diagnostics. The core mission is to demonstrate how advanced AI technologies can enhance medical screening and decision support processes.
 
-
-## Project Demonstration
-
-You can try the app by following this [link](https://github.com/Anirudh-Aravind/Intelligent-health-screening/raw/main/medical_screening.mp4).
-
 ## Project Demo
 
 ![Video Demo](https://github.com/Anirudh-Aravind/Intelligent-health-screening/raw/main/medical_screening.mp4)
