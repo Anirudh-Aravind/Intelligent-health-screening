@@ -18,6 +18,13 @@ This project represents an innovative approach to healthcare screening, leveragi
 - **Agentic AI Analysis**: Multi-agent system for comprehensive medical insights
 - **Built Entirely with Free Resources**: Proving high-quality solutions can be developed cost-effectively
 
+## System Architecture
+
+Here is the system architecture diagram for the Intelligent Health Screening project:
+
+![System Architecture](https://github.com/Anirudh-Aravind/Intelligent-health-screening/raw/main/system-architecture.svg)
+
+
 ## Installation
 
 ### Prerequisites
