@@ -9,13 +9,9 @@ This project represents an innovative approach to healthcare screening, leveragi
 
 You can try the app by following this [link](https://github.com/Anirudh-Aravind/Intelligent-health-screening/raw/main/medical_screening.mp4).
 
-### Demo Video
-<video width="640" height="480" controls>
-    <source src="https://github.com/Anirudh-Aravind/Intelligent-health-screening/raw/main/medical_screening.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+## Project Demo
 
-
+![Video Demo](https://github.com/Anirudh-Aravind/Intelligent-health-screening/raw/main/medical_screening.mp4)
 
  You can try the app by following this link: https://heatlhcareassist.streamlit.app/
 
